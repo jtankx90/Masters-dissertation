@@ -1,7 +1,7 @@
 # Masters dissertation
  A copy of my master's dissertation and codes written in MATLAB
 
-##Note:
+## Note:
 The codes are categorised into 2 folders - To be run and Functions
 
 To be run folder contains the code that is used to generate the results:
