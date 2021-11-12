@@ -1,5 +1,5 @@
 # Masters dissertation
- A copy of my master's dissertation and codes written in MATLAB
+ A copy of my master's dissertation (please refer to final_paper.pdf) and codes written in MATLAB
 
 ## Note:
 The codes are categorised into 2 folders - To be run and Functions
